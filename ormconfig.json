@@ -1,0 +1,11 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "username": "dulya",
+    "password": "dulya@1120",
+    "database": "ghost_cms",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
+  
